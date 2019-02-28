@@ -9,8 +9,8 @@ temp.unshift(element)
 
 
 function destructivelyAddElementToBeginningOfArray(array, element){
-  var temp = [array,element]
-  temp.shift(element)
+  var temp2 = [array,]
+  temp.unshift(element)
 return temp
 }
   
