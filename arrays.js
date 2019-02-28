@@ -7,8 +7,7 @@ function addElementToBeginningOfArray(array, element){
 
 
 function destructivelyAddElementToBeginningOfArray(array, element){
-  var temp2 = [`${array}`]
-temp2.unshift(`${element}`)
-return temp2
+  
+return 
 }
   
